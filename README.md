@@ -24,3 +24,7 @@
 从这个意义上来讲，梵语中的“统一”含义与我的EKA的全程刚好完美契合：
 
 > EKA不仅代表“可执行”，更代表了将**静态文档、动态数据与逻辑执行**高度**统一(Unity)**的架构哲学。
+
+## EKA in Action
+
+Here https://github.com/yasenstar/EA_MetaModel/releases you can find the latest release of EA Meta Model practices.
