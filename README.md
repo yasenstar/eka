@@ -1,5 +1,9 @@
 # EKA - Executable Knowledge Architecture
 
+## EKA in One Page
+
+![eka-onepage](img/EKA-onepage.png)
+
 ## About EKA and its Name (关于EKA的缩写名字的释义)
 
 使用EKA缩写的词汇主要有如下几种，见表格：
@@ -28,3 +32,11 @@
 ## EKA in Action
 
 Here https://github.com/yasenstar/EA_MetaModel/releases you can find the latest release of EA Meta Model practices.
+
+## My EKA Site
+
+Here https://xiaoqi.com is my homesite for hosting the EKA concept.
+
+---
+
+Edited by Xiaoqi Zhao (founder of EKA framework).
