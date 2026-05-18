@@ -29,6 +29,8 @@
 
 > EKA不仅代表“可执行”，更代表了将**静态文档、动态数据与逻辑执行**高度**统一(Unity)**的架构哲学。
 
+Here is the [EAK Implementation Roadmap View](./docs/eka-roadmap.md)
+
 ## EKA in Action
 
 Here https://github.com/yasenstar/EA_MetaModel/releases you can find the latest release of EA Meta Model practices.
